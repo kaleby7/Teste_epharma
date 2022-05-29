@@ -1,0 +1,3 @@
+$ cat .gitattributes
+*.xml linguist-language=RobotFramework
+*.html linguist-language=Python
